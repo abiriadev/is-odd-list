@@ -22,7 +22,7 @@ function isOdd(n) {
 
 - [recursive check](ways/recursive.md)
 
-- [hexString](hexString.md)
+- [hexString](ways/hexString.md)
 
 # Contribution
 Read [CONTRIBUTION.md](CONTRIBUTION.md)
