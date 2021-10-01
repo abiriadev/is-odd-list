@@ -28,5 +28,7 @@ function isOdd(n) {
 
 - [ternary digit sum](ways/ternaryDigitSum.md)
 
+- [justInteger](ways/justInteger.md)
+
 # Contribution
 Read [CONTRIBUTION.md](CONTRIBUTION.md)
