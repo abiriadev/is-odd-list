@@ -14,6 +14,7 @@ function isOdd(n) {
   return n & 1
 }
 ```
+
 ## Odd ways
 like above, but via string.
 ```js
@@ -28,3 +29,11 @@ function isOdd(n) {
     for (let i = 0; i < n; i++) result = !result;
     return result;
 }
+```
+
+recursive check:
+```js
+function isOdd(n) {
+  return !n ? false : n < 0 ? true : isOdd(n - 2)
+}
+```
