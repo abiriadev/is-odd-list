@@ -30,5 +30,7 @@ function isOdd(n) {
 
 - [justInteger](ways/justInteger.md)
 
+- [use is-odd npm pacakge](ways/isOddNpm.md) 
+
 # Contribution
 Read [CONTRIBUTION.md](CONTRIBUTION.md)
