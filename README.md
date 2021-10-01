@@ -17,5 +17,5 @@ function isOdd(n) {
 
 like above, but via string.
 ```js
-const isEven = _ => typeof _ === "number" && /1$/.test(_.toString(2))
+const isOdd = _ => typeof _ === "number" && /1$/.test(_.toString(2))
 ```
