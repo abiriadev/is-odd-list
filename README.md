@@ -22,5 +22,7 @@ function isOdd(n) {
 
 - [recursive check](ways/recursive.md)
 
+- [bongo isOdd](ways/bongo.md)
+
 # Contribution
 Read [CONTRIBUTION.md](CONTRIBUTION.md)
