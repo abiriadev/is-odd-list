@@ -26,5 +26,7 @@ function isOdd(n) {
 
 - [bongo isOdd](ways/bongo.md)
 
+- [justInteger](ways/justInteger.md)
+
 # Contribution
 Read [CONTRIBUTION.md](CONTRIBUTION.md)
