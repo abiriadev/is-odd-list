@@ -14,3 +14,18 @@ function isOdd(n) {
   return n & 1
 }
 ```
+
+dumb for express
+```js
+function isOdd(n) {
+    if (n < 0) n = Math.abs(n);
+    
+    let result = false;
+    for (let i = 0; i < n; i++) {
+        if (result === false) result = true;
+        else result = false;
+    }
+    
+    return result;
+}
+```
