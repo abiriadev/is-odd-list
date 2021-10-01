@@ -24,5 +24,7 @@ function isOdd(n) {
 
 - [hexString](ways/hexString.md)
 
+- [bongo isOdd](ways/bongo.md)
+
 # Contribution
 Read [CONTRIBUTION.md](CONTRIBUTION.md)
