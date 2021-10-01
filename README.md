@@ -22,6 +22,8 @@ function isOdd(n) {
 
 - [recursive check](ways/recursive.md)
 
+- [hexString](ways/hexString.md)
+
 - [bongo isOdd](ways/bongo.md)
 
 # Contribution
