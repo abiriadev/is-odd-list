@@ -16,24 +16,8 @@ function isOdd(n) {
 ```
 
 ## Odd ways
-like above, but via string.
-```js
-const isOdd = _ => /1$/.test(_.toString(2))
-```
+- [like above, but via string](viaString.md)
 
-dumb for express
-```js
-function isOdd(n) {
-    if (n < 0) n = Math.abs(n);
-    let result = false;
-    for (let i = 0; i < n; i++) result = !result;
-    return result;
-}
-```
+- [dumb for express](dumbForExpress.md)
 
-recursive check:
-```js
-function isOdd(n) {
-  return !n ? false : n < 0 ? true : isOdd(n - 2)
-}
-```
+- [recursive check](recursive.md)
