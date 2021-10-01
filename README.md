@@ -21,3 +21,6 @@ function isOdd(n) {
 - [dumb for express](ways/dumbForExpress.md)
 
 - [recursive check](ways/recursive.md)
+
+# Contribution
+Read [CONTRIBUTION.md](CONTRIBUTION.md)
