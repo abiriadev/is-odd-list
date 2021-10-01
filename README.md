@@ -1,4 +1,4 @@
-# awesome-is-odd
+# is-odd-list
 A list of odd ways for is-odd functions with Javascript.
 
 ## The most common way
