@@ -32,5 +32,7 @@ function isOdd(n) {
 
 - [use is-odd npm pacakge](ways/isOddNpm.md) 
 
+- [Needs more jquery](ways/jquery.md)
+
 # Contribution
 Read [CONTRIBUTION.md](CONTRIBUTION.md)
