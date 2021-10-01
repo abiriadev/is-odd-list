@@ -11,15 +11,18 @@ function isOdd(n) {
 a bit weird way:
 ```js
 function isOdd(n) {
-  return n & 1
+  return Boolean(n & 1);
 }
 ```
 
 ## Odd ways
-- [like above, but via string](viaString.md)
+- [like above, but via string](ways/viaString.md)
 
-- [dumb for express](dumbForExpress.md)
+- [dumb for express](ways/dumbForExpress.md)
 
-- [recursive check](recursive.md)
+- [recursive check](ways/recursive.md)
 
 - [hexString](hexString.md)
+
+# Contribution
+Read [CONTRIBUTION.md](CONTRIBUTION.md)
