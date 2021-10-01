@@ -26,6 +26,8 @@ function isOdd(n) {
 
 - [bongo isOdd](ways/bongo.md)
 
+- [ternary digit sum](ways/ternaryDigitSum.md)
+
 - [justInteger](ways/justInteger.md)
 
 # Contribution
